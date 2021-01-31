@@ -5,8 +5,6 @@
 - Te recomiendo descargar e implementar las tres librerías a tu código, sin embargo, puedes intentar solo con una.
 - Estas librerías han sido probadas únicamenrte en **Java**, si te funcionan en otro lenguaje me lo dejas saber.
 - Una vez importes las librerías deberas colocar la siguiente linea:
-####Ejemplo en Java - NetBeans
-
 
     import adsi.org.apache.xml.security.utils.Base64;
     
